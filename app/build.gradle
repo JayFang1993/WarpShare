@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "org.mokee.warpshare"
+        minSdkVersion 14
+        targetSdkVersion 28
+        versionCode 19
+        versionName '1.6.1'
+    }
+
+    signingConfigs {
+        release {
+
+        }
+    }
+
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.google.android.material:material:1.1.0-alpha10'
+    implementation 'me.zhanghai.android.materialprogressbar:library:1.6.1'
+    implementation "androidx.preference:preference:1.1.0"
+    implementation 'com.github.bumptech.glide:glide:4.10.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.10.0'
+    implementation 'com.koushikdutta.async:androidasync:2.+'
+    implementation 'com.gemalto.jp2:jp2-android:1.0'
+}

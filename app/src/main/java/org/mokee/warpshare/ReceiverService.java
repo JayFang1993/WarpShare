@@ -135,8 +135,7 @@ public class ReceiverService extends Service implements AirDropManager.ReceiverL
         super.onCreate();
         Log.d(TAG, "onCreate");
 
-        mAirDropManager = new AirDropManager(this,
-                WarpShareApplication.from(this).getCertificateManager());
+        mAirDropManager = new AirDropManager(this);
 
         mWifiStateMonitor.register(this);
         mBluetoothStateMonitor.register(this);

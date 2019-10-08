@@ -1,0 +1,287 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:18:1-100:12
+INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:18:1-100:12
+INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:18:1-100:12
+INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:18:1-100:12
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b213ab3b08d52ab07b27851a8bd1f465/AndroidManifest.xml:17:1-24:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/e29de3136311874869e034d4b14b9f8c/AndroidManifest.xml:6:1-15:12
+MERGED from [androidx.preference:preference:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/32a838f46c684eab423bf06170761653/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/c35da92fc57b84ee41b06ebddf18ccd6/AndroidManifest.xml:2:1-12:12
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/47e4281bd0609c805a8196e226d1405c/AndroidManifest.xml:2:1-16:12
+MERGED from [com.gemalto.jp2:jp2-android:1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b7f576128af212e9e27451e22aedd270/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/4fd296591fb1e31f3e5fb6d80e2f7fde/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/d829af8802918844391e6b3e118f7259/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/401752e85b5dcac39419292c184631fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/1037b1b2dc018b91cc01d7d4cb3d4521/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b4cae49d4254c53415154b0f8a8d9167/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/c68c73f3d158e796943361d198974d35/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/a8550f316bd5f965912831a3751905bf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b62f2112de7eae84b02858093dc12be1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/6f35fb085d28fd319913c3169a0a083d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/1361b8ed67a6d46c92e77010dc21c631/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/4f29ff4021fe65fc3fc313db2f59e47e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b7b59f81fd9451b57f9621a07c6fb2eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/f9e0aaadc7586c4faf8f32767e8dc8c4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/f01f1e5d50280641e476608003128a35/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/7dd3e9ac862496c0e66586f112d394f0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/7f4102199e96409b41f759903a390df2/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/2dae02e0eedafb4cd06385393f1cc361/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/d1b0fd30bfbac999a27aa888dc2d2032/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/2887700165bebff2de138b0cf5961eab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/67f80699d6434aab60fc9b76733238f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/e21e5d0ac036be109f0523c15b387c4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/ebf4ca51d0619bc86b742d1a7e7d7205/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/97ba7d70ddf8df79f538ad4b16057b84/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/4eb3c532cadaed39ebf726e90c9de5d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/4c39301685b80d5b825721ff7305e4a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/9f8a67a9bdf8e61c5ec5188fea96ba5e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:18:1-100:12
+INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:18:1-100:12
+INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:18:1-100:12
+	package
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:20:5-34
+		INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:18:1-100:12
+		INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:18:1-100:12
+		INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:18:11-69
+uses-sdk
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:22:5-149
+INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:22:5-149
+INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:22:5-149
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b213ab3b08d52ab07b27851a8bd1f465/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b213ab3b08d52ab07b27851a8bd1f465/AndroidManifest.xml:20:5-44
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/e29de3136311874869e034d4b14b9f8c/AndroidManifest.xml:11:5-13:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/e29de3136311874869e034d4b14b9f8c/AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.preference:preference:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/32a838f46c684eab423bf06170761653/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/32a838f46c684eab423bf06170761653/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/c35da92fc57b84ee41b06ebddf18ccd6/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/c35da92fc57b84ee41b06ebddf18ccd6/AndroidManifest.xml:6:5-8:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/47e4281bd0609c805a8196e226d1405c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/47e4281bd0609c805a8196e226d1405c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.gemalto.jp2:jp2-android:1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b7f576128af212e9e27451e22aedd270/AndroidManifest.xml:7:5-9:41
+MERGED from [com.gemalto.jp2:jp2-android:1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b7f576128af212e9e27451e22aedd270/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/4fd296591fb1e31f3e5fb6d80e2f7fde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/4fd296591fb1e31f3e5fb6d80e2f7fde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/d829af8802918844391e6b3e118f7259/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/d829af8802918844391e6b3e118f7259/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/401752e85b5dcac39419292c184631fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/401752e85b5dcac39419292c184631fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/1037b1b2dc018b91cc01d7d4cb3d4521/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/1037b1b2dc018b91cc01d7d4cb3d4521/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b4cae49d4254c53415154b0f8a8d9167/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b4cae49d4254c53415154b0f8a8d9167/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/c68c73f3d158e796943361d198974d35/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/c68c73f3d158e796943361d198974d35/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/a8550f316bd5f965912831a3751905bf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/a8550f316bd5f965912831a3751905bf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b62f2112de7eae84b02858093dc12be1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b62f2112de7eae84b02858093dc12be1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/6f35fb085d28fd319913c3169a0a083d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/6f35fb085d28fd319913c3169a0a083d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/1361b8ed67a6d46c92e77010dc21c631/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/1361b8ed67a6d46c92e77010dc21c631/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/4f29ff4021fe65fc3fc313db2f59e47e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/4f29ff4021fe65fc3fc313db2f59e47e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b7b59f81fd9451b57f9621a07c6fb2eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b7b59f81fd9451b57f9621a07c6fb2eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/f9e0aaadc7586c4faf8f32767e8dc8c4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/f9e0aaadc7586c4faf8f32767e8dc8c4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/f01f1e5d50280641e476608003128a35/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/f01f1e5d50280641e476608003128a35/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/7dd3e9ac862496c0e66586f112d394f0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/7dd3e9ac862496c0e66586f112d394f0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/7f4102199e96409b41f759903a390df2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/7f4102199e96409b41f759903a390df2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/2dae02e0eedafb4cd06385393f1cc361/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/2dae02e0eedafb4cd06385393f1cc361/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/d1b0fd30bfbac999a27aa888dc2d2032/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/d1b0fd30bfbac999a27aa888dc2d2032/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/2887700165bebff2de138b0cf5961eab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/2887700165bebff2de138b0cf5961eab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/67f80699d6434aab60fc9b76733238f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/67f80699d6434aab60fc9b76733238f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/e21e5d0ac036be109f0523c15b387c4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/e21e5d0ac036be109f0523c15b387c4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/ebf4ca51d0619bc86b742d1a7e7d7205/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/ebf4ca51d0619bc86b742d1a7e7d7205/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/97ba7d70ddf8df79f538ad4b16057b84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/97ba7d70ddf8df79f538ad4b16057b84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/4eb3c532cadaed39ebf726e90c9de5d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/4eb3c532cadaed39ebf726e90c9de5d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/4c39301685b80d5b825721ff7305e4a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/4c39301685b80d5b825721ff7305e4a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/9f8a67a9bdf8e61c5ec5188fea96ba5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/9f8a67a9bdf8e61c5ec5188fea96ba5e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:22:5-149
+INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:22:5-149
+	tools:overrideLibrary
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:22:15-146
+	android:targetSdkVersion
+		INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:22:5-149
+		INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:22:5-149
+		INJECTED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:24:5-26:35
+	android:required
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:26:9-32
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:25:9-53
+uses-permission#android.permission.INTERNET
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:28:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/47e4281bd0609c805a8196e226d1405c/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/47e4281bd0609c805a8196e226d1405c/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:28:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:29:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:30:5-74
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:30:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:31:5-79
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:31:22-76
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:32:5-86
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:32:22-83
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:33:5-77
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:33:22-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:34:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:35:22-78
+application
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:37:5-98:19
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b213ab3b08d52ab07b27851a8bd1f465/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/b213ab3b08d52ab07b27851a8bd1f465/AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/c35da92fc57b84ee41b06ebddf18ccd6/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/c35da92fc57b84ee41b06ebddf18ccd6/AndroidManifest.xml:10:5-20
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/47e4281bd0609c805a8196e226d1405c/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/47e4281bd0609c805a8196e226d1405c/AndroidManifest.xml:13:5-14:19
+MERGED from [androidx.core:core:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/7f4102199e96409b41f759903a390df2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/7f4102199e96409b41f759903a390df2/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/2dae02e0eedafb4cd06385393f1cc361/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/2dae02e0eedafb4cd06385393f1cc361/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/d1b0fd30bfbac999a27aa888dc2d2032/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/d1b0fd30bfbac999a27aa888dc2d2032/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/FangJie/.gradle/caches/transforms-2/files-2.1/7f4102199e96409b41f759903a390df2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:42:9-35
+	android:label
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:41:9-41
+	tools:ignore
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:44:9-48
+	android:icon
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:40:9-43
+	android:allowBackup
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:39:9-36
+	android:theme
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:43:9-40
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:38:9-45
+activity#org.mokee.warpshare.MainActivity
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:46:9-51:20
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:46:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:47:13-50:29
+action#android.intent.action.MAIN
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:49:27-74
+activity#org.mokee.warpshare.ShareActivity
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:53:9-73:20
+	android:theme
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:55:13-46
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:54:13-42
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:*/*
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:56:13-63:29
+action#android.intent.action.SEND
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:57:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:59:17-76
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:59:27-73
+category#android.intent.category.OPENABLE
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:60:27-74
+data
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:62:17-48
+	android:mimeType
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:62:23-45
+intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:*/*
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:65:13-72:29
+action#android.intent.action.SEND_MULTIPLE
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:66:17-78
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:66:25-75
+activity#org.mokee.warpshare.SetupActivity
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:75:9-77:51
+	android:launchMode
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:77:13-48
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:76:13-42
+activity#org.mokee.warpshare.SettingsActivity
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:79:9-81:48
+	android:label
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:81:13-45
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:80:13-45
+service#org.mokee.warpshare.ReceiverService
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:83:9-85:39
+	android:enabled
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:85:13-36
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:84:13-44
+receiver#org.mokee.warpshare.TriggerReceiver
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:87:9-90:47
+	android:exported
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:89:13-36
+	tools:ignore
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:90:13-44
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:88:13-44
+receiver#org.mokee.warpshare.InitializeReceiver
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:92:9-96:20
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:92:19-53
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:93:13-95:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:94:17-79
+	android:name
+		ADDED from /Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/AndroidManifest.xml:94:25-76

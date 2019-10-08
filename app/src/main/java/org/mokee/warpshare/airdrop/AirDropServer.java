@@ -31,7 +31,8 @@ import com.koushikdutta.async.http.server.AsyncHttpServerRequest;
 import com.koushikdutta.async.http.server.AsyncHttpServerResponse;
 import com.koushikdutta.async.http.server.HttpServerRequestCallback;
 import com.koushikdutta.async.http.server.UnknownRequestBody;
-import com.mokee.warpshare.CertificateManager;
+
+import org.mokee.warpshare.WarpShareApplication;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -41,6 +42,7 @@ import okio.Buffer;
 import okio.Okio;
 import okio.Pipe;
 
+
 class AirDropServer {
 
     private static final String TAG = "AirDropServer";
@@ -49,19 +51,18 @@ class AirDropServer {
 
     private static final String MIME_OCTET_STREAM = "application/octet-stream";
 
-    private final CertificateManager mCertificateManager;
     private final AirDropManager mParent;
 
     private AsyncHttpServer mServer;
 
-    AirDropServer(CertificateManager certificateManager, AirDropManager parent) {
-        mCertificateManager = certificateManager;
+    AirDropServer(AirDropManager parent) {
         mParent = parent;
     }
 
     int start(String host) {
         mServer = new AsyncHttpServer();
-        mServer.listenSecure(PORT, mCertificateManager.getSSLContext());
+        Log.d(TAG, "Start Server...");
+        mServer.listenSecure(PORT, WarpShareApplication.getSSLContext());
         mServer.post("/Discover", new NSDictionaryHttpServerRequestCallback() {
             @Override
             protected void onRequest(InetAddress remote, NSDictionary request, NSDictionaryHttpServerResponse response) {

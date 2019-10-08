@@ -1,0 +1,4 @@
+#Thu Oct 03 00:42:21 CST 2019
+base.0=/Users/FangJie/Code/android_packages_apps_WarpShare/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

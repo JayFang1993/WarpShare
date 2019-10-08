@@ -97,8 +97,7 @@ public class SetupActivity extends AppCompatActivity {
             }
         });
 
-        mAirDropManager = new AirDropManager(this,
-                WarpShareApplication.from(this).getCertificateManager());
+        mAirDropManager = new AirDropManager(this);
 
         mWifiStateMonitor.register(this);
         mBluetoothStateMonitor.register(this);

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/FangJie/Code/android_packages_apps_WarpShare/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/FangJie/Code/android_packages_apps_WarpShare/app/src/debug/shaders"/></dataSet></merger>

@@ -93,8 +93,7 @@ public class MainActivity extends AppCompatActivity implements AirDropManager.Di
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mAirDropManager = new AirDropManager(this,
-                WarpShareApplication.from(this).getCertificateManager());
+        mAirDropManager = new AirDropManager(this);
         mAirDropManager.registerTrigger(TriggerReceiver.getTriggerIntent(this));
 
         mAdapter = new PeersAdapter(this);

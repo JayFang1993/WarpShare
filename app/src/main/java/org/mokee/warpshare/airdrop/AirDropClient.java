@@ -24,8 +24,9 @@ import android.util.Log;
 import com.dd.plist.NSDictionary;
 import com.dd.plist.PropertyListFormatException;
 import com.dd.plist.PropertyListParser;
-import com.mokee.warpshare.CertificateManager;
 
+import org.mokee.warpshare.R;
+import org.mokee.warpshare.WarpShareApplication;
 import org.xml.sax.SAXException;
 
 import java.io.IOException;
@@ -41,7 +42,6 @@ import java.text.ParseException;
 import javax.net.SocketFactory;
 import javax.net.ssl.HostnameVerifier;
 import javax.net.ssl.SSLSession;
-import javax.net.ssl.X509TrustManager;
 import javax.xml.parsers.ParserConfigurationException;
 
 import okhttp3.Call;
@@ -65,12 +65,10 @@ class AirDropClient {
     private OkHttpClient mHttpClient;
     private NetworkInterface mInterface;
 
-    AirDropClient(CertificateManager certificateManager) {
+    AirDropClient() {
         mHttpClient = new OkHttpClient.Builder()
                 .socketFactory(new LinkLocalAddressSocketFactory())
-                .sslSocketFactory(
-                        certificateManager.getSSLContext().getSocketFactory(),
-                        (X509TrustManager) certificateManager.getTrustManagers()[0])
+                .sslSocketFactory(WarpShareApplication.createSSLSocketFactory(R.raw.apple_root_ca))
                 .hostnameVerifier(new HostnameVerifier() {
                     @SuppressLint("BadHostnameVerifier")
                     @Override
